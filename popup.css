@@ -4,6 +4,10 @@
   border-radius: 5px;
 }
 
+.container:hover {
+  box-shadow: 0 0 10px #314d3e;
+}
+
 .title {
   font-size: 14px;
   font-weight: bold;
