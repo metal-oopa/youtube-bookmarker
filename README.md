@@ -1,4 +1,4 @@
-# youtube-bookmarker
+# Youtube Bookmarker
 
 A browser extension that can bookmark youtube videos for you.
 
