@@ -11,6 +11,8 @@ A browser extension that can bookmark youtube videos for you.
 4. Click on "Load unpacked" and open the folder of the cloned repo.
 5. Congrats 🥳. You can now use the extension.
 
+---
+
 ## Follow the steps below to use it.
 
 1. Click on the "+" sign on the controls section of the youtube video.
@@ -21,6 +23,8 @@ A browser extension that can bookmark youtube videos for you.
 
 3. You can start the video from where you left. You can delete the bookmark when you don't need it anymore.
    ![Continue the video or delete the bookmark](https://user-images.githubusercontent.com/70171925/188875340-e8d74614-6052-4332-a5bd-49d3569462d6.png)
+
+---
 
 ## Tech-Stack
 
